@@ -1,4 +1,4 @@
-import  Link  from "next/link";
+import Link from "next/link";
 import {
   Box,
   Flex,
@@ -17,7 +17,7 @@ const Navbar = () => (
   <Flex p="2" borderBottom="1px" borderColor="gray.100">
     <Box fontSize="3xl" color="blue.400" fontWeight="bold">
       <Link href="/" paddingLeft="2">
-        Dalal
+        Lakshmi Chit Realestate
       </Link>
     </Box>
     <Spacer />

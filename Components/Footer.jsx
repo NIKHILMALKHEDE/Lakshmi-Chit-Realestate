@@ -1,6 +1,5 @@
 import { Box } from "@chakra-ui/react";
 
-
 const Footer = () => (
   <Box
     textAlign="center"
@@ -9,7 +8,8 @@ const Footer = () => (
     borderTop="1px"
     borderColor="gray.100"
   >
-    @Nikhil Malkhede © {(new Date().getFullYear())} Dalal, Inc.
+    @Nikhil Malkhede © {new Date().getFullYear()}
+    Lakshmi Chit Realestate, Inc.
   </Box>
 );
 
