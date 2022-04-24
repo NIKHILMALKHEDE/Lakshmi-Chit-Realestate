@@ -6,7 +6,7 @@ import Navbar from "./Navbar";
 const Layout = ({ children }) => (
   <>
     <Head>
-      <title>Lakshmi Chit</title>
+      <title>Lakshmi Chit Realestate</title>
     </Head>
     <Box maxWidth="1280px" m="auto">
       <header> <Navbar /> </header>
