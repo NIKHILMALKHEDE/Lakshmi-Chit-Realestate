@@ -8,7 +8,7 @@ const Footer = () => (
     borderTop="1px"
     borderColor="gray.100"
   >
-    @Nikhil Malkhede © {new Date().getFullYear()}
+    @Nikhil Malkhede © {new Date().getFullYear()}{" "}
     Lakshmi Chit Realestate, Inc.
   </Box>
 );
